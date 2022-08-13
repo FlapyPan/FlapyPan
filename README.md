@@ -1,7 +1,7 @@
 ## Hey 👋, This is FlapyPan 😄
 
 [![Mail Badge](https://img.shields.io/badge/-flapypan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:flapypan@gmail.com)](mailto:flapypan@gmail.com) [![Github Badge](https://img.shields.io/badge/-FlapyPan-grey?style=flat&logo=github&logoColor=white&link=https://github.com/FlapyPan/)](https://www.github.com/FlapyPan/)
-c
+
 ## Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=FlapyPan alt=FlapyPan /> </p>
 
