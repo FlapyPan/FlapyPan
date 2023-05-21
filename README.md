@@ -20,49 +20,40 @@
 <h3 align="center">Language</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,go,c,cs,rust,html,css,py,powershell" alt="Language"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,go,c,cs,rust,html,css,py,powershell" alt="Language"/>
 </p>
 
 <h3 align="center">Backend</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,go,dotnet,ktor" alt="Backend"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=spring,go,dotnet,ktor" alt="Backend"/>
 </p>
 
 <h3 align="center">Frontend</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,vue,react,svelte,tailwind,vite,nuxt,next" alt="Frontend"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,vue,react,svelte,tailwind,vite,nuxt,next" alt="Frontend"/>
 </p>
 
 <h3 align="center">Database</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,mongo" alt="Database"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,mongo" alt="Database"/>
 </p>
 
 <h3 align="center">Deployment & Cloud</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nginx,gradle,jenkins,docker,k8s" alt="Deployment & Cloud"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=nginx,gradle,jenkins,docker,k8s" alt="Deployment & Cloud"/>
 </p>
 
 <h3 align="center">Others</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,idea" alt="Others"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,idea" alt="Others"/>
+</p>
+
+<p align="center">
   <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  alt=""/>
   <img height="42" src="https://cdn.iconscout.com/icon/free/png-256/free-archlinux-3521282-2944701.png"  alt=""/>
   <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"  alt=""/>
@@ -70,22 +61,15 @@
   <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain.svg"  alt=""/>
 </p>
 
-
 <h2 align="center">〽️ GitHub Stats
 <img src="https://github.com/FlapyPan/FlapyPan/blob/main/assets/neko_2.gif" height="30px" alt=""></h2>
 
 <p align="center">
-  <a href="https://github.com/FlapyPan">
-    <img src="https://github-readme-stats.vercel.app/api?username=FlapyPan&show_icons=true&include_all_commits=true&theme=algolia" alt="GitHub Stats"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=FlapyPan&show_icons=true&include_all_commits=true&theme=algolia" alt="GitHub Stats"/>
 </p>
 <p align="center">
-  <a href="https://github.com/FlapyPan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlapyPan&layout=compact&theme=algolia" alt="Top Languages"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlapyPan&layout=compact&theme=algolia" alt="Top Languages"/>
 </p>
 <p align="center">
-  <a href="https://github.com/FlapyPan">
-    <img src="https://komarev.com/ghpvc/?username=FlapyPan" alt="Profile Views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=FlapyPan" alt="Profile Views"/>
 </p>
