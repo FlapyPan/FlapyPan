@@ -18,19 +18,19 @@
 <h3 align="center">Language</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,go,c,cs,rust,html,css,py,powershell" alt="Language"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,go,c,cs,rust" alt="Language"/>
 </p>
 
 <h3 align="center">Backend</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,go,dotnet,ktor" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=spring,go,dotnet" alt="Backend"/>
 </p>
 
 <h3 align="center">Frontend</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,vue,react,svelte,tailwind,vite,nuxt,next" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,vue,tailwind,vite,nuxt" alt="Frontend"/>
 </p>
 
 <h3 align="center">Database</h3>
@@ -42,7 +42,7 @@
 <h3 align="center">Deployment & Cloud</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nginx,gradle,jenkins,docker,k8s" alt="Deployment & Cloud"/>
+  <img src="https://skillicons.dev/icons?i=nginx,gradle,jenkins,docker" alt="Deployment & Cloud"/>
 </p>
 
 <h3 align="center">Others</h3>
