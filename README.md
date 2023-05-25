@@ -2,7 +2,7 @@
 
 <p align="center">I'm a web program developer and high school student. I'm interested in development, especially new technologies.</p>
 
-<p align="center">See also my website: <a href="https://www.flapypan.top/">FlapyPan</a></p>
+<p align="center">See also my website: <a href="https://www.flapypan.top/">FlapyPan</a> or <a href="https://flapypan.vercel.app/">FlapyPan(vercel)</a></p>
 
 <p align="center">
   <a href="mailto:flapypan@gmail.com">
