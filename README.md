@@ -1,3 +1,5 @@
+<img src="https://github.com/FlapyPan/FlapyPan/blob/main/assets/social-preview.webp" alt="" />
+
 <h2 align="center">👋 Hi, This is FlapyPan <img src="https://github.com/FlapyPan/FlapyPan/blob/main/assets/neko_0.gif" height="30px" alt="" /> </h2>
 
 <p align="center">I'm a web program developer and high school student. I'm interested in development, especially new technologies.</p>
