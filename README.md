@@ -60,9 +60,6 @@
 <h2 align="center">〽️ GitHub Stats <img src="assets/neko_2.gif" height="30px" alt="" /> </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FlapyPan&show_icons=true&include_all_commits=true&theme=algolia" alt="GitHub Stats"/>
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlapyPan&layout=compact&theme=algolia" alt="Top Languages"/>
 </p>
 <p align="center">
