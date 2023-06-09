@@ -1,4 +1,4 @@
-![assets/social-preview.webp](social-preview)
+![social-preview](assets/social-preview.webp)
 
 <h2 align="center">👋 Hi, This is FlapyPan <img src="assets/neko_0.gif" height="30px" alt="" /> </h2>
 
