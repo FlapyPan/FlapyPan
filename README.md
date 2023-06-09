@@ -1,5 +1,3 @@
-![social-preview](assets/social-preview.webp)
-
 <h2 align="center">👋 Hi, This is FlapyPan <img src="assets/neko_0.gif" height="30px" alt="" /> </h2>
 
 <p align="center">I'm a web program developer and high school student. I'm interested in development, especially new technologies.</p>
@@ -70,3 +68,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FlapyPan" alt="Profile Views"/>
 </p>
+
+![social-preview](assets/social-preview.webp)
