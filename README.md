@@ -65,5 +65,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FlapyPan" alt="Profile Views"/>
 </p>
-
-![social-preview](assets/social-preview.webp)
