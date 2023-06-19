@@ -51,12 +51,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,idea" alt="Others"/>
 </p>
 
-<p align="center">
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  alt=""/>
-  <img height="42" src="https://cdn.iconscout.com/icon/free/png-256/free-archlinux-3521282-2944701.png"  alt=""/>
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"  alt=""/>
-</p>
-
 <h2 align="center">〽️ GitHub Stats <img src="assets/neko_2.gif" height="30px" alt="" /> </h2>
 
 <p align="center">
