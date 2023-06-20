@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi, This is FlapyPan <img src="assets/neko_0.gif" height="30px" alt="" /> </h2>
 
-<p align="center">I'm a web program developer and high school student. I'm interested in development, especially new technologies.</p>
+<p align="center">I'm a web program developer. I'm interested in development, especially new technologies.</p>
 
 <p align="center">See also my website: <a href="https://www.flapypan.top/">FlapyPan</a> or <a href="https://flapypan.vercel.app/">FlapyPan(vercel)</a></p>
 
