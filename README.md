@@ -5,11 +5,14 @@
 <p align="center">See also my website: <a href="https://www.flapypan.top/">FlapyPan</a> or <a href="https://flapypan.vercel.app/">FlapyPan(vercel)</a></p>
 
 <p align="center">
-  <a href="mailto:flapypan@gmail.com">
-    <img src="https://img.shields.io/badge/-flapypan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:flapypan@gmail.com" alt="Mail Badge"/>
-  </a> 
+  <a href="https://git.flapypan.top/FlapyPan">
+    <img src="https://img.shields.io/badge/-FlapyPan-grey?style=flat&logo=gitea&logoColor=white&labelColor=green&link=https://git.flapypan.top/FlapyPan" alt="Gitea Badge"/>
+  </a>
   <a href="https://www.github.com/FlapyPan/">
     <img src="https://img.shields.io/badge/-FlapyPan-grey?style=flat&logo=github&logoColor=white&link=https://github.com/FlapyPan/" alt="GitHub Badge"/>
+  </a>
+  <a href="mailto:flapypan@gmail.com">
+    <img src="https://img.shields.io/badge/-flapypan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:flapypan@gmail.com" alt="Mail Badge"/>
   </a>
 </p>
 
@@ -49,13 +52,4 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,idea" alt="Others"/>
-</p>
-
-<h2 align="center">〽️ GitHub Stats <img src="assets/neko_2.gif" height="30px" alt="" /> </h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlapyPan&layout=compact&theme=algolia" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FlapyPan" alt="Profile Views"/>
 </p>
