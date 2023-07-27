@@ -2,7 +2,7 @@
 
 一枚 Web 开发者，喜欢捣鼓新鲜好玩的技术。
 
-所有的代码仓库都已迁移至我的 [Gitea](https://git.flapypan.top/)。
+[私人 Git 仓库](https://git.flapypan.top/)。
 
 这是我的个人网站：[FlapyPan](https://www.flapypan.top/) 或 [FlapyPan(vercel)](https://flapypan.vercel.app/)。
 
@@ -10,7 +10,7 @@
 
 I'm a web program developer. I'm interested in development, especially new technologies.
 
-Currently, all my repositories have been migrated to My [Gitea](https://git.flapypan.top/).
+[My Gitea](https://git.flapypan.top/).
 
 See also my website: [FlapyPan](https://www.flapypan.top/) or [FlapyPan(vercel)](https://flapypan.vercel.app/).
 
