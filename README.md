@@ -1,5 +1,5 @@
 ## FlapyPan
 
-这是我的个人网站：[腾包子的点心铺](https://flapypan.pages.dev)
+我的个人网站：[flapypan.top](https://flapypan.top) 或 [flapypan.pages.dev](https://flapypan.pages.dev/)
 
 一起成为好朋友吧！
